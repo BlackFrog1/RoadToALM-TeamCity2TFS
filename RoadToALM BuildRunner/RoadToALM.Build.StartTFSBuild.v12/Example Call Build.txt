@@ -1,0 +1,1 @@
+C:\BuildScripts\TFSBuildRunner\RoadToALM.Build.StartTFSBuild.v12.exe -n "%build.number%" -c "http://tfsserver:8080/tfs/DefaultCollection" -p "TeamProjectName" -b "BuildDefiniton Name" -d "\\server\droplocation"

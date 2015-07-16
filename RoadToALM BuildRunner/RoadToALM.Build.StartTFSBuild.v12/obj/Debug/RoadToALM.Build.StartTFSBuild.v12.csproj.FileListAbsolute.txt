@@ -1,0 +1,12 @@
+C:\Users\René\Source\Repos\TeamCityIntegration\RoadToALM BuildRunner\RoadToALM.Build.StartTFSBuild.v12\bin\Debug\RoadToALM.Build.StartTFSBuild.v12.exe.config
+C:\Users\René\Source\Repos\TeamCityIntegration\RoadToALM BuildRunner\RoadToALM.Build.StartTFSBuild.v12\bin\Debug\RoadToALM.Build.StartTFSBuild.v12.exe
+C:\Users\René\Source\Repos\TeamCityIntegration\RoadToALM BuildRunner\RoadToALM.Build.StartTFSBuild.v12\bin\Debug\RoadToALM.Build.StartTFSBuild.v12.pdb
+C:\Users\René\Source\Repos\TeamCityIntegration\RoadToALM BuildRunner\RoadToALM.Build.StartTFSBuild.v12\bin\Debug\CommandLine.dll
+C:\Users\René\Source\Repos\TeamCityIntegration\RoadToALM BuildRunner\RoadToALM.Build.StartTFSBuild.v12\bin\Debug\Microsoft.TeamFoundation.Build.Workflow.dll
+C:\Users\René\Source\Repos\TeamCityIntegration\RoadToALM BuildRunner\RoadToALM.Build.StartTFSBuild.v12\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\René\Source\Repos\TeamCityIntegration\RoadToALM BuildRunner\RoadToALM.Build.StartTFSBuild.v12\bin\Debug\CommandLine.xml
+C:\Users\René\Source\Repos\TeamCityIntegration\RoadToALM BuildRunner\RoadToALM.Build.StartTFSBuild.v12\bin\Debug\Microsoft.TeamFoundation.Build.Workflow.xml
+C:\Users\René\Source\Repos\TeamCityIntegration\RoadToALM BuildRunner\RoadToALM.Build.StartTFSBuild.v12\bin\Debug\Microsoft.WITDataStore.dll
+C:\Users\René\Source\Repos\TeamCityIntegration\RoadToALM BuildRunner\RoadToALM.Build.StartTFSBuild.v12\obj\Debug\RoadToALM.Build.StartTFSBuild.v12.csprojResolveAssemblyReference.cache
+C:\Users\René\Source\Repos\TeamCityIntegration\RoadToALM BuildRunner\RoadToALM.Build.StartTFSBuild.v12\obj\Debug\RoadToALM.Build.StartTFSBuild.v12.exe
+C:\Users\René\Source\Repos\TeamCityIntegration\RoadToALM BuildRunner\RoadToALM.Build.StartTFSBuild.v12\obj\Debug\RoadToALM.Build.StartTFSBuild.v12.pdb

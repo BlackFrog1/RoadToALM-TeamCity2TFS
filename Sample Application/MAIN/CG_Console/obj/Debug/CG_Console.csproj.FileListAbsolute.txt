@@ -1,0 +1,6 @@
+C:\temp\cg\MAIN\CG_Console\CG_Console\CG_Console\bin\Debug\CG_Console.exe.config
+C:\temp\cg\MAIN\CG_Console\CG_Console\CG_Console\bin\Debug\CG_Console.exe
+C:\temp\cg\MAIN\CG_Console\CG_Console\CG_Console\bin\Debug\CG_Console.pdb
+C:\temp\cg\MAIN\CG_Console\CG_Console\CG_Console\obj\Debug\CG_Console.csprojResolveAssemblyReference.cache
+C:\temp\cg\MAIN\CG_Console\CG_Console\CG_Console\obj\Debug\CG_Console.exe
+C:\temp\cg\MAIN\CG_Console\CG_Console\CG_Console\obj\Debug\CG_Console.pdb
