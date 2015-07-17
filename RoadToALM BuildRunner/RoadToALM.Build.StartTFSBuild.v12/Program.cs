@@ -30,9 +30,6 @@ namespace RoadToALM.Build.StartTFSBuild.v12
                     IBuildRequest request = definition.CreateBuildRequest();
                     request.ProcessParameters = UpdateVersion(request.ProcessParameters, options);
                     request.DropLocation = options.DropLocation;
-                    
-
-
                     buildServer.QueueBuild(request);
                 }
             }
@@ -52,8 +49,6 @@ namespace RoadToALM.Build.StartTFSBuild.v12
             paramValues[Constants.PARAMETER_DROP_LOCATION] = o.DropLocation;
 
             return WorkflowHelpers.SerializeProcessParameters(paramValues);
-
-
         }
 
     }
